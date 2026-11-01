@@ -4,7 +4,7 @@
 
 Antika ve koleksiyon ürünlerinin satıcılarla alıcıları buluşturduğu çevrimiçi bir pazaryeri otomasyonu. Üniversite dersi için hazırlanan bir ekip projesidir.
 
-> Marka adı henüz kesin değil (adaylar: **Bedesten**, **Nadide**).
+
 
 ## Özellikler
 
